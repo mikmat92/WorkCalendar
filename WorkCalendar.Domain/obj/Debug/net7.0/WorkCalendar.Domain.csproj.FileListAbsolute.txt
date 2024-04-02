@@ -1,0 +1,12 @@
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Domain\bin\Debug\net7.0\WorkCalendar.Domain.deps.json
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Domain\bin\Debug\net7.0\WorkCalendar.Domain.dll
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Domain\bin\Debug\net7.0\WorkCalendar.Domain.pdb
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Domain\obj\Debug\net7.0\WorkCalendar.Domain.csproj.AssemblyReference.cache
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Domain\obj\Debug\net7.0\WorkCalendar.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Domain\obj\Debug\net7.0\WorkCalendar.Domain.AssemblyInfoInputs.cache
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Domain\obj\Debug\net7.0\WorkCalendar.Domain.AssemblyInfo.cs
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Domain\obj\Debug\net7.0\WorkCalendar.Domain.csproj.CoreCompileInputs.cache
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Domain\obj\Debug\net7.0\WorkCalendar.Domain.dll
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Domain\obj\Debug\net7.0\refint\WorkCalendar.Domain.dll
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Domain\obj\Debug\net7.0\WorkCalendar.Domain.pdb
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Domain\obj\Debug\net7.0\ref\WorkCalendar.Domain.dll

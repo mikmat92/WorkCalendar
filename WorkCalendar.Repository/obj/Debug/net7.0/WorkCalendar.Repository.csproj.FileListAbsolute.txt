@@ -1,0 +1,15 @@
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\bin\Debug\net7.0\WorkCalendar.Repository.deps.json
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\bin\Debug\net7.0\WorkCalendar.Repository.dll
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\bin\Debug\net7.0\WorkCalendar.Repository.pdb
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\bin\Debug\net7.0\WorkCalendar.Domain.dll
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\bin\Debug\net7.0\WorkCalendar.Domain.pdb
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\obj\Debug\net7.0\WorkCalendar.Repository.csproj.AssemblyReference.cache
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\obj\Debug\net7.0\WorkCalendar.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\obj\Debug\net7.0\WorkCalendar.Repository.AssemblyInfoInputs.cache
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\obj\Debug\net7.0\WorkCalendar.Repository.AssemblyInfo.cs
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\obj\Debug\net7.0\WorkCalendar.Repository.csproj.CoreCompileInputs.cache
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\obj\Debug\net7.0\WorkCalendar.Repository.csproj.CopyComplete
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\obj\Debug\net7.0\WorkCalendar.Repository.dll
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\obj\Debug\net7.0\refint\WorkCalendar.Repository.dll
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\obj\Debug\net7.0\WorkCalendar.Repository.pdb
+C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendar.Repository\obj\Debug\net7.0\ref\WorkCalendar.Repository.dll
