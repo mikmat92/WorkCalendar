@@ -1,45 +1,90 @@
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\appsettings.json
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\WorkCalendar.Api.exe
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\WorkCalendar.Api.deps.json
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\WorkCalendar.Api.runtimeconfig.json
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\WorkCalendar.Api.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\WorkCalendar.Api.pdb
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\WorkCalendar.Domain.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\WorkCalendar.Service.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\WorkCalendar.Service.pdb
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\WorkCalendar.Domain.pdb
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\WorkCalendar.Api.csproj.AssemblyReference.cache
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\WorkCalendar.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\WorkCalendar.Api.AssemblyInfoInputs.cache
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\WorkCalendar.Api.AssemblyInfo.cs
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\WorkCalendar.Api.csproj.CoreCompileInputs.cache
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\WorkCalendar.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\WorkCalendar.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\staticwebassets\msbuild.WorkCalendar.Api.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.WorkCalendar.Api.props
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WorkCalendar.Api.props
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WorkCalendar.Api.props
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\scopedcss\bundle\WorkCalendar.Api.styles.css
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\WorkCalendar.Api.csproj.CopyComplete
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\WorkCalendar.Api.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\refint\WorkCalendar.Api.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\WorkCalendar.Api.pdb
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\WorkCalendar.Api.genruntimeconfig.cache
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\obj\Debug\net7.0\ref\WorkCalendar.Api.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\WorkCalendar.Repository.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Calendar.Api\bin\Debug\net7.0\WorkCalendar.Repository.pdb
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/appsettings.json
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/WorkCalendar.Api.exe
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/WorkCalendar.Api.deps.json
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/WorkCalendar.Api.runtimeconfig.json
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/WorkCalendar.Api.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/WorkCalendar.Api.pdb
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/WorkCalendar.Domain.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/WorkCalendar.Service.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/WorkCalendar.Service.pdb
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/WorkCalendar.Domain.pdb
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/WorkCalendar.Api.csproj.AssemblyReference.cache
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/WorkCalendar.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/WorkCalendar.Api.AssemblyInfoInputs.cache
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/WorkCalendar.Api.AssemblyInfo.cs
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/WorkCalendar.Api.csproj.CoreCompileInputs.cache
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/WorkCalendar.Api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/WorkCalendar.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/staticwebassets/msbuild.WorkCalendar.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.WorkCalendar.Api.props
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WorkCalendar.Api.props
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WorkCalendar.Api.props
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/scopedcss/bundle/WorkCalendar.Api.styles.css
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/WorkCalendar.Api.csproj.CopyComplete
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/WorkCalendar.Api.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/refint/WorkCalendar.Api.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/WorkCalendar.Api.pdb
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/WorkCalendar.Api.genruntimeconfig.cache
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/obj/Debug/net7.0/ref/WorkCalendar.Api.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/WorkCalendar.Repository.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/Calendar.Api/bin/Debug/net7.0/WorkCalendar.Repository.pdb
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/appsettings.Development.json
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/appsettings.json
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/WorkCalendar.Api
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/WorkCalendar.Api.deps.json
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/WorkCalendar.Api.runtimeconfig.json
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/WorkCalendar.Api.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/WorkCalendar.Api.pdb
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/WorkCalendar.Domain.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/WorkCalendar.Repository.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/WorkCalendar.Service.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/WorkCalendar.Service.pdb
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/WorkCalendar.Domain.pdb
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/bin/Debug/net7.0/WorkCalendar.Repository.pdb
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/WorkCalendar.Api.csproj.AssemblyReference.cache
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/WorkCalendar.Api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/WorkCalendar.Api.AssemblyInfoInputs.cache
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/WorkCalendar.Api.AssemblyInfo.cs
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/WorkCalendar.Api.csproj.CoreCompileInputs.cache
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/WorkCalendar.Api.MvcApplicationPartsAssemblyInfo.cs
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/WorkCalendar.Api.MvcApplicationPartsAssemblyInfo.cache
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/staticwebassets/msbuild.WorkCalendar.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/staticwebassets/msbuild.build.WorkCalendar.Api.props
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.WorkCalendar.Api.props
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.WorkCalendar.Api.props
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/scopedcss/bundle/WorkCalendar.Api.styles.css
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/WorkCalendar.Api.csproj.CopyComplete
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/WorkCalendar.Api.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/refint/WorkCalendar.Api.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/WorkCalendar.Api.pdb
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/WorkCalendar.Api.genruntimeconfig.cache
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/Debug/net7.0/ref/WorkCalendar.Api.dll

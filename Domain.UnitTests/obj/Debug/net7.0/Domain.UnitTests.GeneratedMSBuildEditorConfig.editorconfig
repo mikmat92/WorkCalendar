@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Domain.UnitTests
-build_property.ProjectDir = C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\Domain.UnitTests\
+build_property.ProjectDir = /Users/mkaelmathisen/Projects/WorkCalendar/Domain.UnitTests/

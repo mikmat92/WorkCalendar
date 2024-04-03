@@ -29,12 +29,12 @@ namespace WorkCalendar.Repository
             var defaultHoliday1 = new HolidayEntity
             {
                 HolidayDateTimeOffset = new DateTime(2000, 5, 17),
-                IsReoccurring = true
+                IsRecurring = true
             };
             var defaultHoliday2 = new HolidayEntity
             {
                 HolidayDateTimeOffset = new DateTime(2004, 5, 27),
-                IsReoccurring = false
+                IsRecurring = false
             };
             _context.HolidayEntities.AddIfNotExists(defaultHoliday1);
             _context.HolidayEntities.AddIfNotExists(defaultHoliday2);
@@ -46,7 +46,7 @@ namespace WorkCalendar.Repository
             var entity = new HolidayEntity
             {
                 HolidayDateTimeOffset = holiday.Date,
-                IsReoccurring = holiday.IsRecurringHoliday
+                IsRecurring = holiday.IsRecurringHoliday
             };
             _context.HolidayEntities.AddIfNotExists(entity);
             _context.SaveChanges();
@@ -55,9 +55,9 @@ namespace WorkCalendar.Repository
         public HashSet<Holiday> GetHolidays(Day startingDay)
         {
             var entities = _context.HolidayEntities
-                .Where(i =>  i.IsReoccurring || (!i.IsReoccurring && startingDay.Date.Year == i.HolidayDateTimeOffset.Year));
+                .Where(i =>  i.IsRecurring || (!i.IsRecurring && startingDay.Date.Year == i.HolidayDateTimeOffset.Year));
 
-            return entities.Select(i => new Holiday(i.HolidayDateTimeOffset, i.IsReoccurring)).ToHashSet();
+            return entities.Select(i => new Holiday(i.HolidayDateTimeOffset, i.IsRecurring)).ToHashSet();
         }
     }
 }

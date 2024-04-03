@@ -2994,12 +2994,13 @@
       ]
     },
     "Newtonsoft.Json/10.0.3": {
-      "sha512": "wBM7i7i3U2WX0ecor4zdVGvgrwFUjuigBoHKiL+nH39fCOpCPjBY3RDqJM32edvdyTAVdjzlccHsg41+/+zpSA==",
+      "sha512": "hSXaFmh7hNCuEoC4XNY5DrRkLDzYHqPx/Ik23R4J86Z7PE/Y6YidhG602dFVdLBRSdG6xp9NabH3dXpcoxWvww==",
       "type": "package",
       "path": "newtonsoft.json/10.0.3",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
@@ -6778,40 +6779,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\g05\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/mkaelmathisen/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\Domain.UnitTests\\Domain.UnitTests.csproj",
+      "projectUniqueName": "/Users/mkaelmathisen/Projects/WorkCalendar/Domain.UnitTests/Domain.UnitTests.csproj",
       "projectName": "Domain.UnitTests",
-      "projectPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\Domain.UnitTests\\Domain.UnitTests.csproj",
-      "packagesPath": "C:\\Users\\g05\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\Domain.UnitTests\\obj\\",
+      "projectPath": "/Users/mkaelmathisen/Projects/WorkCalendar/Domain.UnitTests/Domain.UnitTests.csproj",
+      "packagesPath": "/Users/mkaelmathisen/.nuget/packages/",
+      "outputPath": "/Users/mkaelmathisen/Projects/WorkCalendar/Domain.UnitTests/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\g05\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/mkaelmathisen/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://waypoint.myget.org/F/nuget/auth/8029051e-e80a-4318-a950-eaf013c1bea2/api/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Domain\\WorkCalendar.Domain.csproj": {
-              "projectPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Domain\\WorkCalendar.Domain.csproj"
+            "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Domain/WorkCalendar.Domain.csproj": {
+              "projectPath": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Domain/WorkCalendar.Domain.csproj"
             }
           }
         }
@@ -6859,7 +6852,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
       }
     }
   }

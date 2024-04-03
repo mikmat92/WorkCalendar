@@ -16,7 +16,8 @@ public class WorkCalendarController : ControllerBase
         _service = service;
     }
 
-    [HttpPost(Name = "CalculateWorkingDays")]
+    [Route("calculate-working-days")]
+    [HttpPost]
     public ActionResult<string> CalculateWorkingDays([FromBody] CalculationRequest request)
     {
         var businessHours = new BusinessHours(request.BusinessHourStart, request.BusinessHourEnd);
@@ -26,7 +27,8 @@ public class WorkCalendarController : ControllerBase
         return Ok(result.ToString());
     }
 
-    [HttpPut(Name = "PersistHoliday")]
+    [HttpPut]
+    [Route("persist-holiday")]
     public ActionResult PersistHoliday([FromBody] HolidayViewModel viewModel)
     {
         var holiday = new Holiday(viewModel.DateOfHoliday, viewModel.IsRecurring);

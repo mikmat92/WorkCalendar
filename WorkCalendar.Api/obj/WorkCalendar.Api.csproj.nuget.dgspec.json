@@ -1,40 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Api\\WorkCalendar.Api.csproj": {}
+    "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/WorkCalendar.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Api\\WorkCalendar.Api.csproj": {
+    "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/WorkCalendar.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Api\\WorkCalendar.Api.csproj",
+        "projectUniqueName": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/WorkCalendar.Api.csproj",
         "projectName": "WorkCalendar.Api",
-        "projectPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Api\\WorkCalendar.Api.csproj",
-        "packagesPath": "C:\\Users\\g05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Api\\obj\\",
+        "projectPath": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/WorkCalendar.Api.csproj",
+        "packagesPath": "/Users/mkaelmathisen/.nuget/packages/",
+        "outputPath": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\g05\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/mkaelmathisen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://waypoint.myget.org/F/nuget/auth/8029051e-e80a-4318-a950-eaf013c1bea2/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendarService\\WorkCalendar.Service.csproj": {
-                "projectPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendarService\\WorkCalendar.Service.csproj"
+              "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/WorkCalendar.Service.csproj": {
+                "projectPath": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/WorkCalendar.Service.csproj"
               }
             }
           }
@@ -81,34 +74,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Domain\\WorkCalendar.Domain.csproj": {
+    "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Domain/WorkCalendar.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Domain\\WorkCalendar.Domain.csproj",
+        "projectUniqueName": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Domain/WorkCalendar.Domain.csproj",
         "projectName": "WorkCalendar.Domain",
-        "projectPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Domain\\WorkCalendar.Domain.csproj",
-        "packagesPath": "C:\\Users\\g05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Domain\\obj\\",
+        "projectPath": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Domain/WorkCalendar.Domain.csproj",
+        "packagesPath": "/Users/mkaelmathisen/.nuget/packages/",
+        "outputPath": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\g05\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/mkaelmathisen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://waypoint.myget.org/F/nuget/auth/8029051e-e80a-4318-a950-eaf013c1bea2/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
@@ -141,41 +127,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Repository\\WorkCalendar.Repository.csproj": {
+    "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Repository/WorkCalendar.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Repository\\WorkCalendar.Repository.csproj",
+        "projectUniqueName": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Repository/WorkCalendar.Repository.csproj",
         "projectName": "WorkCalendar.Repository",
-        "projectPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Repository\\WorkCalendar.Repository.csproj",
-        "packagesPath": "C:\\Users\\g05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Repository\\obj\\",
+        "projectPath": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Repository/WorkCalendar.Repository.csproj",
+        "packagesPath": "/Users/mkaelmathisen/.nuget/packages/",
+        "outputPath": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Repository/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\g05\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/mkaelmathisen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://waypoint.myget.org/F/nuget/auth/8029051e-e80a-4318-a950-eaf013c1bea2/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Domain\\WorkCalendar.Domain.csproj": {
-                "projectPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Domain\\WorkCalendar.Domain.csproj"
+              "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Domain/WorkCalendar.Domain.csproj": {
+                "projectPath": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Domain/WorkCalendar.Domain.csproj"
               }
             }
           }
@@ -215,44 +194,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendarService\\WorkCalendar.Service.csproj": {
+    "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/WorkCalendar.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendarService\\WorkCalendar.Service.csproj",
+        "projectUniqueName": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/WorkCalendar.Service.csproj",
         "projectName": "WorkCalendar.Service",
-        "projectPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendarService\\WorkCalendar.Service.csproj",
-        "packagesPath": "C:\\Users\\g05\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendarService\\obj\\",
+        "projectPath": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/WorkCalendar.Service.csproj",
+        "packagesPath": "/Users/mkaelmathisen/.nuget/packages/",
+        "outputPath": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\g05\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/mkaelmathisen/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://waypoint.myget.org/F/nuget/auth/8029051e-e80a-4318-a950-eaf013c1bea2/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Domain\\WorkCalendar.Domain.csproj": {
-                "projectPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Domain\\WorkCalendar.Domain.csproj"
+              "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Domain/WorkCalendar.Domain.csproj": {
+                "projectPath": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Domain/WorkCalendar.Domain.csproj"
               },
-              "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Repository\\WorkCalendar.Repository.csproj": {
-                "projectPath": "C:\\Users\\g05\\OneDrive - If\\Desktop\\WorkCalendar\\WorkCalendar\\WorkCalendar.Repository\\WorkCalendar.Repository.csproj"
+              "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Repository/WorkCalendar.Repository.csproj": {
+                "projectPath": "/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Repository/WorkCalendar.Repository.csproj"
               }
             }
           }
@@ -288,7 +260,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.407/RuntimeIdentifierGraph.json"
         }
       }
     }

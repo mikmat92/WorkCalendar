@@ -1,17 +1,34 @@
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\bin\Debug\net7.0\WorkCalendar.Service.deps.json
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\bin\Debug\net7.0\WorkCalendar.Service.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\bin\Debug\net7.0\WorkCalendar.Service.pdb
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\bin\Debug\net7.0\WorkCalendar.Domain.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\bin\Debug\net7.0\WorkCalendar.Domain.pdb
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\obj\Debug\net7.0\WorkCalendar.Service.csproj.AssemblyReference.cache
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\obj\Debug\net7.0\WorkCalendar.Service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\obj\Debug\net7.0\WorkCalendar.Service.AssemblyInfoInputs.cache
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\obj\Debug\net7.0\WorkCalendar.Service.AssemblyInfo.cs
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\obj\Debug\net7.0\WorkCalendar.Service.csproj.CoreCompileInputs.cache
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\obj\Debug\net7.0\WorkCalendar.Service.csproj.CopyComplete
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\obj\Debug\net7.0\WorkCalendar.Service.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\obj\Debug\net7.0\refint\WorkCalendar.Service.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\obj\Debug\net7.0\WorkCalendar.Service.pdb
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\obj\Debug\net7.0\ref\WorkCalendar.Service.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\bin\Debug\net7.0\WorkCalendar.Repository.dll
-C:\Users\g05\OneDrive - If\Desktop\WorkCalendar\WorkCalendar\WorkCalendarService\bin\Debug\net7.0\WorkCalendar.Repository.pdb
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Service.deps.json
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Service.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Service.pdb
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Domain.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Domain.pdb
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.csproj.AssemblyReference.cache
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.AssemblyInfoInputs.cache
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.AssemblyInfo.cs
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.csproj.CoreCompileInputs.cache
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.csproj.CopyComplete
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/refint/WorkCalendar.Service.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.pdb
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/ref/WorkCalendar.Service.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Repository.dll
+C:/Users/g05/OneDrive - If/Desktop/WorkCalendar/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Repository.pdb
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Service.deps.json
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Service.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Service.pdb
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Domain.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Repository.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Domain.pdb
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/bin/Debug/net7.0/WorkCalendar.Repository.pdb
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.csproj.AssemblyReference.cache
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.AssemblyInfoInputs.cache
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.AssemblyInfo.cs
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.csproj.CoreCompileInputs.cache
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.csproj.CopyComplete
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/refint/WorkCalendar.Service.dll
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/WorkCalendar.Service.pdb
+/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendarService/obj/Debug/net7.0/ref/WorkCalendar.Service.dll

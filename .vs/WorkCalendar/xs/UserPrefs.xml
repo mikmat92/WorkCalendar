@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{8F9A83F8-1C61-432A-A75C-2392AF1FC96B}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WorkCalendar.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WorkCalendar.Repository/WorkCalendarRepository.cs">
+    <Files>
+      <File FileName="WorkCalendar.Repository/Infrastructure/DbSetExtensions.cs" />
+      <File FileName="WorkCalendar.Api/Controllers/WorkCalendarController.cs" Line="36" Column="2" />
+      <File FileName="WorkCalendarService/WorkCalendarService.cs" Line="35" Column="2" />
+      <File FileName="WorkCalendar.Repository/WorkCalendarRepository.cs" Line="56" Column="91" />
+      <File FileName="WorkCalendar.Api/ViewModels/HolidayViewModel.cs" Line="1" Column="1" />
+      <File FileName="WorkCalendar.Repository/Models/HolidayEntity.cs" Line="12" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WorkCalendar" expanded="True">
+            <Node name="Tests" expanded="True" />
+            <Node name="WorkCalendar.Api" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+            <Node name="WorkCalendar.Repository">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="WorkCalendarRepository.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mkaelmathisen/Projects/WorkCalendar/WorkCalendar.Api/Controllers/WorkCalendarController.cs" relfile="WorkCalendar.Api/Controllers/WorkCalendarController.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

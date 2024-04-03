@@ -9,5 +9,5 @@ public class HolidayEntity
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public int Id { get; set; }
     public DateTimeOffset HolidayDateTimeOffset { get; set; }
-    public bool IsReoccurring { get; set; }
+    public bool IsRecurring { get; set; }
 }
